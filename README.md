@@ -1,70 +1,104 @@
-# Java Learning Repository ☕
+# Java Learning & Practice Repository ☕
 
-A collection of Java programs and practice exercises organized topic-wise to strengthen core Java concepts and problem-solving skills.
+This repository contains my Java learning journey, including topic-wise programs, coding challenges, pattern problems, object-oriented programming concepts, and practice exercises.
+
+Along with Java, the repository also includes some Python programs and automation scripts created while learning programming fundamentals.
 
 ## 📚 Topics Covered
 
-- Basics of Java
+### Java Fundamentals
+- Java Introduction
 - Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Arrays
-- Strings
-- Methods
-- Object-Oriented Programming (OOP)
+- Arithmetic Operators
+- Unary Operators
+- Relational Operators
+- Logical Operators
+- Bitwise Operators
+- Type Conversion & Type Casting
+- Input & Output
+- Conditional Statements (if-else, switch)
+- Loops (for, while, do-while)
+- Pattern Printing
+- Number Programs
+- Swapping Techniques
+
+### Object-Oriented Programming
+- Classes & Objects
+- Constructors
+- Method Overloading
+- Encapsulation
 - Inheritance
 - Polymorphism
-- Abstraction
-- Encapsulation
-- Exception Handling
-- Collections Framework
-- File Handling
-- Multithreading
-- JDBC
-- Practice Problems
+- `toString()` Method
+
+### Problem Solving
+- Practice Challenges
+- Coding Exercises
+- Logic Building Programs
+- Pattern-Based Questions
+
+### Additional Content
+- Python Programs
+- PPT Automation Scripts
+- Miscellaneous Programming Practice
+
+---
 
 ## 📂 Repository Structure
 
 ```
-Java-Classes/
+java/
 │
-├── Arrays/
-├── Strings/
-├── Loops/
-├── OOP/
-├── Inheritance/
-├── ExceptionHandling/
-├── Collections/
-└── ...
+├── JAVA introduction/
+├── ch1/
+├── ch2/
+├── ch3/
+├── CH4/
+├── class and objects/
+├── constructor/
+├── challenge 15 onwards/
+├── challenge 21 onwards/
+├── challenge 28 onwards/
+├── challenge 40 onwards/
+├── 70 onwards/
+├── python-pptx/
+└── other practice files
 ```
 
-Each folder contains Java programs related to the respective topic.
+Each folder contains programs and exercises related to the respective topic.
+
+---
 
 ## 🎯 Purpose
 
-This repository serves as:
+This repository is maintained to:
 
-- A personal Java learning journal
-- A collection of topic-wise practice programs
-- A quick reference for Java concepts
-- A foundation for Data Structures & Algorithms
+- Strengthen Java fundamentals
+- Practice programming concepts regularly
+- Improve problem-solving skills
+- Build a strong foundation for Data Structures & Algorithms
+- Track my coding progress over time
+
+---
 
 ## 🛠️ Technologies Used
 
 - Java
-- IntelliJ IDEA / VS Code
+- Python
+- VS Code
 - Git & GitHub
 
-## 🚀 How to Run
+---
+
+## 🚀 How to Run Java Programs
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/prachipandey-03/your-repository-name.git
 ```
 
-2. Navigate to the desired topic folder.
+2. Open the desired folder.
 
 3. Compile the Java file:
 
@@ -78,20 +112,29 @@ javac FileName.java
 java FileName
 ```
 
-## 📈 Learning Goals
+---
 
-- Build strong Java fundamentals
-- Improve coding and problem-solving skills
-- Prepare for Data Structures & Algorithms
-- Develop clean coding practices
+## 📈 Currently Learning
+
+- Core Java
+- Object-Oriented Programming
+- Problem Solving
+- Data Structures & Algorithms
+- Python Automation
+
+---
 
 ## 👩‍💻 Author
 
 **Prachi Pandey**
 
-- GitHub: https://github.com/prachipandey-03
-- LinkedIn: https://www.linkedin.com/in/-prachi-pandey
+B.Tech CSE (Devops)  
+Bennett University
+
+GitHub: https://github.com/prachipandey-03
+
+LinkedIn: https://www.linkedin.com/in/-prachi-pandey
 
 ---
 
-⭐ This repository is continuously updated as I learn new Java concepts and solve more problems.
+⭐ This repository is continuously updated as I learn new concepts and solve more programming problems.
